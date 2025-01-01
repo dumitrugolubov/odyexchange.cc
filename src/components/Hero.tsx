@@ -23,7 +23,7 @@ export function Hero() {
               <ArrowRight size={16} />
             </a>
             <a 
-              href="https://www.odyssey.trade/en_US/register?inviteCode=EAATH"
+              href="https://ody.lol"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-gray-500 text-white px-8 py-3 rounded-full hover:bg-white/10 transition"
