@@ -1,0 +1,15 @@
+[[redirects]]
+  from = "http://odyexchange.cc/*"
+  to = "https://odyexchange.cc/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.odyexchange.cc/*"
+  to = "https://odyexchange.cc/:splat"
+  status = 301
+  force = true
+
+[build]
+  publish = "dist"
+  command = "npm run build"
